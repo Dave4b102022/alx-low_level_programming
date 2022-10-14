@@ -26,6 +26,7 @@ int main(void)
 					break;
 				}
 				putchar(',');
+				putchar(' ');
 			}
 			i++;
 		}
