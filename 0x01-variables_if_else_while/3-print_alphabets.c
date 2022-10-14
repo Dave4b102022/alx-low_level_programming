@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * Main - prints the alphabet.
+ * main - prints the alphabet.
  * Description: prints a-z and A-Z using putchar().
  *
  * Return: Always 0 (Success)
