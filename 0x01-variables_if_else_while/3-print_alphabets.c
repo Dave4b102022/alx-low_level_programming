@@ -2,6 +2,7 @@
 
 /**
  * Main - prints the alphabet.
+ * Description: prints a-z and A-Z using putchar().
  *
  * Return: Always 0 (Success)
  *
