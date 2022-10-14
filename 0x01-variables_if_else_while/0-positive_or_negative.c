@@ -4,8 +4,9 @@
 
 /**
  * main - entry point
- * DEscription: prints if a number is postive or negative.
- * Return 0
+ * Description: prints if a number is postive or negative or zero.
+ *
+ * Return: Always 0
  */
 int main(void)
 {
