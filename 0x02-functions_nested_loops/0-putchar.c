@@ -1,16 +1,20 @@
 #include "main.h"
+
 /**
-*main - print _putchar
-*Written by Tsaku David.
-*Return: 0 (Success)
+* main - prints _putchar
+*
+* Return: 0 (Success)
 */
-	_putchar('_');
-	_putchar('p');
-	_putchar('u');
-	_putchar('t');
-	_putchar('c');
-	_putchar('h');
-	_putchar('a');
-	_putchar('r');
+int main(void)
+{
+	int i;
+	char p[] = "_putchar";
+
+	for (i = 0; i < 8; i++)
+	{
+		_putchar(p[i]);
+	}
 	_putchar('\n');
 	return (0);
+}
+
