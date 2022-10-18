@@ -1,8 +1,8 @@
 #include "main.h"
 /**
-  main - print _putchar
-  Written by Tsaku David.
-Return: 0 (Success)
+*main - print _putchar
+*Written by Tsaku David.
+*Return: 0 (Success)
 */
 int main(void)
 {
