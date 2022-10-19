@@ -17,7 +17,7 @@ int main(void)
 		fib = prevFib + prev2Fib;
 		printf("%lu", fib);
 
-		prev2Fib = prev2Fib;
+		prev2Fib = prevFib;
 		prevFib = fib;
 		if (i == 49)
 			printf("\n");
