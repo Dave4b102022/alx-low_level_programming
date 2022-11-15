@@ -1,1 +1,1 @@
-This is the Directory for struct
+0x0E. C - Structures, typedef
